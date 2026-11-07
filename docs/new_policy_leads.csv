@@ -1,6 +1,6 @@
 ﻿name,homepage,policy_url,triage,evidence_excerpt,error
-Zoho,https://www.zoho.com/,,manual_review_required,,PermissionError: Blocked by robots.txt
-Alwaysdata,https://www.alwaysdata.com/,https://www.alwaysdata.com/fr/mentions-legales/,no_explicit_mining_permission_found,,
-ampt.dev,https://getampt.com/,https://getampt.com/legal/terms-of-service,no_explicit_mining_permission_found,,
-anvil.works,https://anvil.works/,https://anvil.works/terms-of-service,no_explicit_mining_permission_found,,
-appcircle.io,https://appcircle.io/,,manual_review_required,,PermissionError: Blocked by robots.txt
+MyBinder (Project Jupyter),https://mybinder.org/,,manual_review_required,,PermissionError: Blocked by robots.txt
+Oracle Cloud Always Free Compute,https://docs.oracle.com/,,no_homepage_policy_link,,
+Paperspace Gradient,https://www.paperspace.com/,https://www.paperspace.com/legal/terms-of-service,no_explicit_mining_permission_found,,
+Railway,https://railway.app/,https://railway.app/legal/dpa,no_explicit_mining_permission_found,,
+Replit,https://replit.com/,https://replit.com/terms-of-service,no_explicit_mining_permission_found,,

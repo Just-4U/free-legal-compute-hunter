@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-11-07 14:57 UTC",
-  "catalog_discovered_candidates": 109,
+  "generated_utc": "2026-11-07 15:17 UTC",
+  "catalog_discovered_candidates": 156,
   "manually_reviewed_records": 18,
   "free_mining_permissions_confirmed": 0,
   "public_policy_checks_attempted": 12,
   "catalog_fetch_issue": "",
-  "catalogs_checked": 3,
-  "catalogs_loaded": 3,
+  "catalogs_checked": 7,
+  "catalogs_loaded": 7,
   "catalog_sources": [
     {
       "name": "free-for-dev",
@@ -19,9 +19,29 @@
       "entries": 21
     },
     {
-      "name": "free-tier-hub",
+      "name": "hub-cloud-vps",
       "status": "ok",
-      "entries": 0
+      "entries": 8
+    },
+    {
+      "name": "hub-app-hosting",
+      "status": "ok",
+      "entries": 29
+    },
+    {
+      "name": "hub-serverless",
+      "status": "ok",
+      "entries": 17
+    },
+    {
+      "name": "hub-ai-ml",
+      "status": "ok",
+      "entries": 2
+    },
+    {
+      "name": "free-cloud-notebooks",
+      "status": "ok",
+      "entries": 23
     }
   ],
   "new_policy_leads_reviewed": 5,
