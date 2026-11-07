@@ -28,7 +28,7 @@ jobs:
         run: python -m unittest discover -s tests -v
 
       - name: Refresh public research only (NO mining)
-        run: python hunter.py --max-policy-checks 12
+        run: python hunter_v2.py --max-policy-checks 12 --max-new-leads 5
 
       - name: Commit refreshed public report
         run: |
