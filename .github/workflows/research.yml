@@ -1,0 +1,38 @@
+
+name: Publish public legal-compute research
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 8 * * 1'
+  push:
+    branches: [main]
+    paths: ['hunter.py', 'data/**', '.github/workflows/research.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  verify-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test classifier
+        run: python -m unittest discover -s tests -v
+
+      - name: Refresh public research only (NO mining)
+        run: python hunter.py --max-policy-checks 12
+
+      - name: Commit refreshed public report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || (git commit -m "Update public legal compute evidence" && git push)
