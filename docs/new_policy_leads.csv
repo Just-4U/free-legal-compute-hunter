@@ -1,6 +1,6 @@
 ﻿name,homepage,policy_url,triage,evidence_excerpt,error
-Kaggle,https://www.kaggle.com/,,no_homepage_policy_link,,
-Koyeb,https://www.koyeb.com/,https://www.koyeb.com/docs/legal/terms,no_explicit_mining_permission_found,,
-Netlify,https://www.netlify.com/,,no_homepage_policy_link,,
-render.com,https://render.com/,https://render.com/terms,no_explicit_mining_permission_found,,
-Vercel,https://vercel.com/,https://vercel.com/legal/privacy-notice,manual_review_required,,RuntimeError: Document too large; ignored
+Zoho,https://www.zoho.com/,,manual_review_required,,PermissionError: Blocked by robots.txt
+Alwaysdata,https://www.alwaysdata.com/,https://www.alwaysdata.com/fr/mentions-legales/,no_explicit_mining_permission_found,,
+ampt.dev,https://getampt.com/,https://getampt.com/legal/terms-of-service,no_explicit_mining_permission_found,,
+anvil.works,https://anvil.works/,https://anvil.works/terms-of-service,no_explicit_mining_permission_found,,
+appcircle.io,https://appcircle.io/,,manual_review_required,,PermissionError: Blocked by robots.txt
