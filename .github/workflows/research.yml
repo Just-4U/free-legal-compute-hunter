@@ -7,7 +7,7 @@ on:
     - cron: '15 8 * * 1'
   push:
     branches: [main]
-    paths: ['hunter.py', 'data/**', '.github/workflows/research.yml']
+    paths: ['hunter.py', 'hunter_v2.py', 'data/**', '.github/workflows/research.yml']
 
 permissions:
   contents: write
