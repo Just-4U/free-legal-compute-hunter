@@ -1,6 +1,6 @@
 ﻿name,homepage,policy_url,triage,evidence_excerpt,error
-Prisma Compute,https://www.prisma.io/,https://www.prisma.io/legal,no_explicit_mining_permission_found,,
-Google Cloud Platform,https://cloud.google.com/,,manual_review_required,,RuntimeError: Document too large; ignored
-Amazon Web Services,https://aws.amazon.com/,https://aws.amazon.com/legal/?nc1=f_cc,no_explicit_mining_permission_found,,
-Deno Deploy,https://deno.com/,https://docs.deno.com/deploy/privacy_policy/,no_explicit_mining_permission_found,,
-Google Colab,https://colab.research.google.com/,,manual_review_required,,PermissionError: Blocked by robots.txt
+Kaggle,https://www.kaggle.com/,,no_homepage_policy_link,,
+Koyeb,https://www.koyeb.com/,https://www.koyeb.com/docs/legal/terms,no_explicit_mining_permission_found,,
+Netlify,https://www.netlify.com/,,no_homepage_policy_link,,
+render.com,https://render.com/,https://render.com/terms,no_explicit_mining_permission_found,,
+Vercel,https://vercel.com/,https://vercel.com/legal/privacy-notice,manual_review_required,,RuntimeError: Document too large; ignored
