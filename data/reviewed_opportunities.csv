@@ -1,0 +1,19 @@
+name,mode,zero_cost_compute,verdict,permission_scope,source_url,notes,reviewed_on
+Google Cloud Free Trial,cloud_free_trial,yes,prohibited,Free Trial,https://cloud.google.com/terms/free-trial,Section 3.2 prohibits cryptocurrency mining,2026-11-07
+Google Colab,notebook_free,yes,prohibited,Managed runtimes,https://research.google.com/colaboratory/faq.html,FAQ prohibits mining cryptocurrency,2026-11-07
+GitHub Actions,ci_free_public,yes,prohibited,Actions compute,https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features,Actions may not be used for cryptomining; can host limited research and website publication workflows,2026-11-07
+Render,cloud_free_web,yes,prohibited,All service tiers,https://render.com/acceptable-use,Acceptable use prohibits cryptocurrency mining,2026-11-07
+Railway,cloud_trial,trial,prohibited,All service tiers,https://railway.com/legal/acceptable-use,Cryptocurrency mining prohibited,2026-11-07
+Phala Cloud,cloud_free,yes,prohibited,Free/promotional resources,https://phala.com/fr/terms,All free tier crypto mining prohibited explicitly,2026-11-07
+Oracle Cloud Always Free,cloud_free,yes,prohibited_oracle_agreement_sample,Cloud Services Agreement jurisdiction needs check,https://www.oracle.com/contracts/docs/corporate_cloud-csa-uae-eng-v040119.pdf,Oracle agreement published for UAE expressly bans crypto mining; some Free accounts suspended for mining; review local contract before any deployment,2026-11-07
+Nebrix Sandbox,cloud_sandbox,yes,not_usable_offline,Three 1 hour sandboxes,https://nebrixcloud.io/terms,Mining not prohibited platform wide but sandbox lacks general internet and DNS,2026-11-07
+Nebrix Test Machine,cloud_credit_offer,no,deposit_required,First vCPU free 30 days after deposit,https://nebrixcloud.io/terms,Requires $5 initial deposit so fails zero spend requirement,2026-11-07
+Koyeb Free,cloud_free_micro,yes,permission_unverified,One micro container,https://www.koyeb.com/docs,Crypto mining allowance not confirmed; do not deploy miner,2026-11-07
+Hugging Face Spaces,ai_hosting_free_limited,limited,permission_unverified,Free Static and limited ZeroGPU; compute account restrictions,https://huggingface.co/docs/hub/spaces-overview,Free CPU references are not a permission for mining,2026-11-07
+Cloudflare Workers,serverless_free,yes,permission_unverified,Requests and per-invocation CPU limits,https://developers.cloudflare.com/workers/platform/pricing/,Not suitable for continuous CPU mining; no mining permission verified,2026-11-07
+Vercel Hobby,serverless_free,yes,permission_unverified,Noncommercial hobby serverless,https://vercel.com/docs/plans/hobby,Cannot assume commercial mining allowed; bounded execution; do not deploy,2026-11-07
+GitHub Pages,static_web_free,yes,not_compute,Static site,https://docs.github.com/en/pages/getting-started-with-github-pages,Can publish opportunity results or an opt-in information page not background mine,2026-11-07
+Sardene,volunteer_opt_in,yes,consent_model_available,Owner explicitly activates light-normal-max mining,https://sardene.com/,No free compute inventory; miners voluntarily contribute own CPU and electricity,2026-11-07
+BOINC Central,volunteer_science,yes,not_for_mining,Volunteer scientific workloads,https://boinc.berkeley.edu/central/,Free access for qualifying scientific computing research not private mining,2026-11-07
+World Compute,volunteer_public_goods,proposed,permission_unverified,Community-governed public compute project,https://github.com/ContextLab/world-compute,Repository describes public-good compute with planned phases; no demonstrated miner permission,2026-11-07
+MyResearchCloud,nonprofit_research,yes,prohibited,Free research compute,https://www.myresearchcloud.ca/free-services,Explicitly not intended for cryptocurrency mining,2026-11-07

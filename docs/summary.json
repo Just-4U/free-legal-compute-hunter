@@ -1,0 +1,9 @@
+{
+  "generated_utc": "2026-11-07 14:01 UTC",
+  "catalog_discovered_candidates": 99,
+  "manually_reviewed_records": 18,
+  "free_mining_permissions_confirmed": 0,
+  "public_policy_checks_attempted": 12,
+  "catalog_fetch_issue": "",
+  "note": "A keyword match is not authorization. No deployment is performed."
+}

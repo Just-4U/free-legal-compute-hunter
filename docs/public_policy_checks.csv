@@ -1,0 +1,13 @@
+﻿name,url,result,evidence_excerpt,error
+Google Cloud Free Trial,https://cloud.google.com/terms/free-trial,possible_prohibition_review,usage per free trial (as further described in documentation). 3.2 customer may not use the services to engage in mining cryptocurrency. 3.3 certain services and features will not be available under the free tr,
+Google Colab,https://research.google.com/colaboratory/faq.html,no_explicit_mining_permission_found,,
+GitHub Actions,https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features,no_explicit_mining_permission_found,,
+Render,https://render.com/acceptable-use,no_explicit_mining_permission_found,,
+Railway,https://railway.com/legal/acceptable-use,no_explicit_mining_permission_found,,
+Phala Cloud,https://phala.com/fr/terms,unavailable_requires_manual_review,,PermissionError: Blocked by robots.txt
+Nebrix Sandbox,https://nebrixcloud.io/terms,no_explicit_mining_permission_found,,
+Nebrix Test Machine,https://nebrixcloud.io/terms,no_explicit_mining_permission_found,,
+Koyeb Free,https://www.koyeb.com/docs,no_explicit_mining_permission_found,,
+Hugging Face Spaces,https://huggingface.co/docs/hub/spaces-overview,no_explicit_mining_permission_found,,
+Cloudflare Workers,https://developers.cloudflare.com/workers/platform/pricing/,unavailable_requires_manual_review,,PermissionError: Blocked by robots.txt
+Vercel Hobby,https://vercel.com/docs/plans/hobby,unavailable_requires_manual_review,,RuntimeError: Document too large; ignored
