@@ -1,0 +1,6 @@
+﻿name,homepage,policy_url,triage,evidence_excerpt,error
+4EVERLAND,https://www.4everland.org/,https://www.4everland.org/privacy-policy,no_explicit_mining_permission_found,,
+backblaze.com,https://www.backblaze.com/,,manual_review_required,,PermissionError: Blocked by robots.txt
+filebase.com,https://filebase.com/,https://filebase.com/privacy-policy/,no_explicit_mining_permission_found,,
+Lightning AI,https://lightning.ai/,https://lightning.ai/legal/terms-and-conditions,no_explicit_mining_permission_found,,
+Modal,https://modal.com/,https://modal.com/legal/privacy-policy,no_explicit_mining_permission_found,,

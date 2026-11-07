@@ -1,100 +1,110 @@
-﻿name,section,url,origin
-Google Cloud Platform,Major Cloud Providers,https://cloud.google.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Google Colab,Major Cloud Providers,https://colab.research.google.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Kaggle,Major Cloud Providers,https://www.kaggle.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-ChromeRemoteDesktop,Major Cloud Providers,https://remotedesktop.google.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Google AI Studio,Major Cloud Providers,https://aistudio.google.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Amazon Web Services,Major Cloud Providers,https://aws.amazon.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Microsoft Azure,Major Cloud Providers,https://azure.microsoft.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Oracle Cloud,Major Cloud Providers,https://www.oracle.com/cloud/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-IBM Cloud,Major Cloud Providers,https://www.ibm.com/cloud/free/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Cloudflare,Major Cloud Providers,https://www.cloudflare.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Workers,Major Cloud Providers,https://developers.cloudflare.com/workers/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Zoho,Major Cloud Providers,https://www.zoho.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Catalyst by Zoho,Major Cloud Providers,https://catalyst.zoho.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Email,Major Cloud Providers,https://zoho.com/mail,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-appcircle.io,CI and CD,https://appcircle.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-appveyor.com,CI and CD,https://www.appveyor.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-bitrise.io,CI and CD,https://www.bitrise.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Buildkite,CI and CD,https://buildkite.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-bytebase.com,CI and CD,https://www.bytebase.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-CircleCI,CI and CD,https://circleci.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-cirun.io,CI and CD,https://cirun.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-codemagic.io,CI and CD,https://codemagic.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-deployhq.com,CI and CD,https://www.deployhq.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-LocalOps,CI and CD,https://localops.co/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Make,CI and CD,https://www.make.com/en,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Mergify,CI and CD,https://mergify.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Nx Cloud,CI and CD,https://nx.dev/ci,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-RunMyJob,CI and CD,https://runmyjob.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Shipfox,CI and CD,https://www.shipfox.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Spacelift,CI and CD,https://spacelift.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Terramate,CI and CD,https://terramate.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Terrateam,CI and CD,https://terrateam.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Trigger.dev,CI and CD,https://trigger.dev,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-ampt.dev,PaaS,https://getampt.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-anvil.works,PaaS,https://anvil.works,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Apply.build,PaaS,https://apply.build/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-appwrite,PaaS,https://appwrite.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Clever Cloud,PaaS,https://clever.cloud,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Choreo,PaaS,https://wso2.com/choreo/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-codenameone.com,PaaS,https://www.codenameone.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Cohesivity,PaaS,https://cohesivity.ai,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Daestro,PaaS,https://daestro.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Deno Deploy,PaaS,https://deno.com/deploy,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Deplexo,PaaS,https://deplexo.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-domcloud.co,PaaS,https://domcloud.co,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-encore.dev,PaaS,https://encore.dev/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-EthioDeploy,PaaS,https://ethiodeploy.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-faable.com,PaaS,https://faable.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-flightcontrol.dev,PaaS,https://flightcontrol.dev/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-gigalixir.com,PaaS,https://gigalixir.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Northflank,PaaS,https://northflank.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Ownkube,PaaS,https://ownkube.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-pipedream.com,PaaS,https://pipedream.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-pythonanywhere.com,PaaS,https://www.pythonanywhere.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Runsite,PaaS,https://runsite.app/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-SnapDeploy,PaaS,https://snapdeploy.dev/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Staxa,PaaS,https://staxa.dev/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-The Vibe Hosting,PaaS,https://thevibehosting.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Uppcoder,PaaS,https://portal.uppcoder.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Val Town,PaaS,https://www.val.town,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-velixir,PaaS,https://velixir.net/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-WunderGraph,PaaS,https://cloud.wundergraph.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-YepCode,PaaS,https://yepcode.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Alwaysdata,Web Hosting,https://www.alwaysdata.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Awardspace.com,Web Hosting,https://www.awardspace.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-boomurl,Web Hosting,https://boomurl.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Bubble,Web Hosting,https://bubble.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-dAppling Network,Web Hosting,https://www.dappling.network/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-DigitalOcean,Web Hosting,https://www.digitalocean.com/pricing,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-FreeFlarum,Web Hosting,https://freeflarum.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Harvis.dev,Web Hosting,https://harvis.dev,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Koyeb,Web Hosting,https://www.koyeb.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-MDB GO,Web Hosting,https://mdbgo.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Mirin,Web Hosting,https://mirin.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Neocities,Web Hosting,https://neocities.org,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Netlify,Web Hosting,https://www.netlify.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Pagehaus,Web Hosting,https://pagehaus.app,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-PandaStack,Web Hosting,https://www.pandastack.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-pantheon.io,Web Hosting,https://pantheon.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Qoddi,Web Hosting,https://qoddi.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-readthedocs.org,Web Hosting,https://readthedocs.org/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-render.com,Web Hosting,https://render.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Revdoku,Web Hosting,https://revdoku.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-ShipStatic,Web Hosting,https://shipstatic.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-SourceForge,Web Hosting,https://sourceforge.net/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-surge.sh,Web Hosting,https://surge.sh/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-tilda.cc,Web Hosting,https://tilda.cc/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Vercel,Web Hosting,https://vercel.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Versoly,Web Hosting,https://versoly.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Stormkit,Web Hosting,https://www.stormkit.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-4EVERLAND,IaaS,https://www.4everland.org/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-backblaze.com,IaaS,https://www.backblaze.com/b2/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-filebase.com,IaaS,https://filebase.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Modal,IaaS,https://modal.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Appish,Docker Related,https://appi.sh/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Container Registry Service,Docker Related,https://container-registry.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-Docker Hub,Docker Related,https://hub.docker.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-quay.io,Docker Related,https://quay.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
-ttl.sh,Docker Related,https://ttl.sh/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md
+﻿name,section,url,origin,mentions,research_priority,mining_permission
+4EVERLAND,IaaS,https://www.4everland.org/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,high,unverified
+backblaze.com,IaaS,https://www.backblaze.com/b2/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,high,unverified
+filebase.com,IaaS,https://filebase.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,high,unverified
+Lightning AI,🖥️ Notebooks & Compute,https://lightning.ai/,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,high,unverified
+Modal,IaaS,https://modal.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,high,unverified
+Prisma Compute,☁️ Hosting,https://www.prisma.io/compute,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,high,unverified
+Google Cloud Platform,Major Cloud Providers,https://cloud.google.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,3,normal,unverified
+Amazon Web Services,Major Cloud Providers,https://aws.amazon.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,2,normal,unverified
+Deno Deploy,PaaS,https://deno.com/deploy,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,2,normal,unverified
+Google Colab,Major Cloud Providers,https://colab.research.google.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,2,normal,unverified
+Kaggle,Major Cloud Providers,https://www.kaggle.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,2,normal,unverified
+Koyeb,Web Hosting,https://www.koyeb.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,2,normal,unverified
+Netlify,Web Hosting,https://www.netlify.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,2,normal,unverified
+render.com,Web Hosting,https://render.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,2,normal,unverified
+Vercel,Web Hosting,https://vercel.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,2,normal,unverified
+Zoho,Major Cloud Providers,https://www.zoho.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,2,normal,unverified
+Alwaysdata,Web Hosting,https://www.alwaysdata.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+ampt.dev,PaaS,https://getampt.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+anvil.works,PaaS,https://anvil.works,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+appcircle.io,CI and CD,https://appcircle.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Appish,Docker Related,https://appi.sh/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Apply.build,PaaS,https://apply.build/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+appveyor.com,CI and CD,https://www.appveyor.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+appwrite,PaaS,https://appwrite.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Awardspace.com,Web Hosting,https://www.awardspace.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Bitbucket,Code Hosting,https://bitbucket.org/,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,normal,unverified
+bitrise.io,CI and CD,https://www.bitrise.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+boomurl,Web Hosting,https://boomurl.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Bubble,Web Hosting,https://bubble.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Buildkite,CI and CD,https://buildkite.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+bytebase.com,CI and CD,https://www.bytebase.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Catalyst by Zoho,Major Cloud Providers,https://catalyst.zoho.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Choreo,PaaS,https://wso2.com/choreo/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+ChromeRemoteDesktop,Major Cloud Providers,https://remotedesktop.google.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+CircleCI,CI and CD,https://circleci.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+cirun.io,CI and CD,https://cirun.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Clever Cloud,PaaS,https://clever.cloud,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Cloudflare,Major Cloud Providers,https://www.cloudflare.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Cloudflare Pages,☁️ Hosting,https://pages.cloudflare.com/,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,normal,unverified
+Cloudflare Workers,☁️ Hosting,https://workers.cloudflare.com/,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,normal,unverified
+codemagic.io,CI and CD,https://codemagic.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+codenameone.com,PaaS,https://www.codenameone.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Cohesivity,PaaS,https://cohesivity.ai,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Container Registry Service,Docker Related,https://container-registry.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Daestro,PaaS,https://daestro.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+dAppling Network,Web Hosting,https://www.dappling.network/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+deed.page,☁️ Hosting,https://deed.page/pricing,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,normal,unverified
+Deplexo,PaaS,https://deplexo.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+deployhq.com,CI and CD,https://www.deployhq.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+DigitalOcean,Web Hosting,https://www.digitalocean.com/pricing,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Docker Hub,Docker Related,https://hub.docker.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+domcloud.co,PaaS,https://domcloud.co,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+encore.dev,PaaS,https://encore.dev/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+EthioDeploy,PaaS,https://ethiodeploy.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+faable.com,PaaS,https://faable.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+flightcontrol.dev,PaaS,https://flightcontrol.dev/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Fly.io,☁️ Hosting,https://fly.io/,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,normal,unverified
+FreeFlarum,Web Hosting,https://freeflarum.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+gigalixir.com,PaaS,https://gigalixir.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+GitHub Pages,☁️ Hosting,https://pages.github.com/,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,normal,unverified
+GitLab,Code Hosting,https://gitlab.com/,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,normal,unverified
+GitLab Container Registry,Containers,https://docs.gitlab.com/ee/user/packages/container_registry/,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,normal,unverified
+Google AI Studio,Major Cloud Providers,https://aistudio.google.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Harvis.dev,Web Hosting,https://harvis.dev,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+IBM Cloud,Major Cloud Providers,https://www.ibm.com/cloud/free/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+LocalOps,CI and CD,https://localops.co/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Make,CI and CD,https://www.make.com/en,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+MDB GO,Web Hosting,https://mdbgo.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Mergify,CI and CD,https://mergify.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Microsoft Azure,Major Cloud Providers,https://azure.microsoft.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Mirin,Web Hosting,https://mirin.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Neocities,Web Hosting,https://neocities.org,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Northflank,PaaS,https://northflank.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Nx Cloud,CI and CD,https://nx.dev/ci,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Oracle Cloud,Major Cloud Providers,https://www.oracle.com/cloud/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Ownkube,PaaS,https://ownkube.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Pagehaus,Web Hosting,https://pagehaus.app,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+PandaStack,Web Hosting,https://www.pandastack.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+pantheon.io,Web Hosting,https://pantheon.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+pipedream.com,PaaS,https://pipedream.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+pythonanywhere.com,PaaS,https://www.pythonanywhere.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Qoddi,Web Hosting,https://qoddi.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+quay.io,Docker Related,https://quay.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Railway,☁️ Hosting,https://railway.com/,https://raw.githubusercontent.com/dereknguyen269/free-services/main/README.md,1,normal,unverified
+readthedocs.org,Web Hosting,https://readthedocs.org/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Revdoku,Web Hosting,https://revdoku.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+RunMyJob,CI and CD,https://runmyjob.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Runsite,PaaS,https://runsite.app/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Shipfox,CI and CD,https://www.shipfox.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+ShipStatic,Web Hosting,https://shipstatic.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+SnapDeploy,PaaS,https://snapdeploy.dev/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+SourceForge,Web Hosting,https://sourceforge.net/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Spacelift,CI and CD,https://spacelift.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Staxa,PaaS,https://staxa.dev/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Stormkit,Web Hosting,https://www.stormkit.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+surge.sh,Web Hosting,https://surge.sh/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Terramate,CI and CD,https://terramate.io/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Terrateam,CI and CD,https://terrateam.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+The Vibe Hosting,PaaS,https://thevibehosting.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+tilda.cc,Web Hosting,https://tilda.cc/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Trigger.dev,CI and CD,https://trigger.dev,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+ttl.sh,Docker Related,https://ttl.sh/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Uppcoder,PaaS,https://portal.uppcoder.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Val Town,PaaS,https://www.val.town,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+velixir,PaaS,https://velixir.net/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Versoly,Web Hosting,https://versoly.com/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+Workers,Major Cloud Providers,https://developers.cloudflare.com/workers/,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+WunderGraph,PaaS,https://cloud.wundergraph.com,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified
+YepCode,PaaS,https://yepcode.io,https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md,1,normal,unverified

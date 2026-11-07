@@ -1,9 +1,29 @@
 {
-  "generated_utc": "2026-11-07 14:25 UTC",
-  "catalog_discovered_candidates": 99,
+  "generated_utc": "2026-11-07 14:47 UTC",
+  "catalog_discovered_candidates": 109,
   "manually_reviewed_records": 18,
   "free_mining_permissions_confirmed": 0,
   "public_policy_checks_attempted": 12,
   "catalog_fetch_issue": "",
+  "catalogs_checked": 3,
+  "catalogs_loaded": 3,
+  "catalog_sources": [
+    {
+      "name": "free-for-dev",
+      "status": "ok",
+      "entries": 99
+    },
+    {
+      "name": "free-services",
+      "status": "ok",
+      "entries": 21
+    },
+    {
+      "name": "free-tier-hub",
+      "status": "ok",
+      "entries": 0
+    }
+  ],
+  "new_policy_leads_reviewed": 5,
   "note": "A keyword match is not authorization. No deployment is performed."
 }
