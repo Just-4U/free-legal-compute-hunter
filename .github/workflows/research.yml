@@ -7,7 +7,7 @@ on:
     - cron: '15 8 * * 1'
   push:
     branches: [main]
-    paths: ['hunter.py', 'hunter_v2.py', 'data/**', '.github/workflows/research.yml']
+    paths: ['hunter.py', 'hunter_v2.py', 'hunter_v3.py', 'data/**', '.github/workflows/research.yml']
 
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
         run: python -m unittest discover -s tests -v
 
       - name: Refresh public research only (NO mining)
-        run: python hunter_v2.py --max-policy-checks 12 --max-new-leads 5
+        run: python hunter_v3.py --max-policy-checks 12 --max-new-leads 5
 
       - name: Commit refreshed public report
         run: |
