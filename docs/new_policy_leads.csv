@@ -1,6 +1,6 @@
 ﻿name,homepage,policy_url,triage,evidence_excerpt,error
-RunPod,https://www.runpod.io/,,manual_review_required,,PermissionError: Blocked by robots.txt
-Saturn Cloud,https://saturncloud.io/,https://saturncloud.io/legal/terms-of-service/,no_explicit_mining_permission_found,,
-Vast.ai,https://vast.ai/,https://vast.ai/terms,possible_prohibition_review,"its for use of services on or through the website using a credit card, you may not engage in any cryptocurrency mining, including but not limited to bitcoin mining, ethereum mining, or a",
-Amazon Web Services,https://aws.amazon.com/,https://aws.amazon.com/legal/?nc1=f_cc,no_explicit_mining_permission_found,,
 Google Cloud Platform,https://cloud.google.com/,,manual_review_required,,RuntimeError: Document too large; ignored
+Koyeb,https://www.koyeb.com/,https://www.koyeb.com/docs/legal/terms,no_explicit_mining_permission_found,,
+render.com,https://render.com/,https://render.com/terms,no_explicit_mining_permission_found,,
+Workers,https://developers.cloudflare.com/,,manual_review_required,,PermissionError: Blocked by robots.txt
+Deno Deploy,https://deno.com/,https://docs.deno.com/deploy/privacy_policy/,no_explicit_mining_permission_found,,

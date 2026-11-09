@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-07 15:24 UTC",
-  "catalog_discovered_candidates": 156,
+  "generated_utc": "2026-11-09 18:43 UTC",
+  "catalog_discovered_candidates": 157,
   "manually_reviewed_records": 18,
   "free_mining_permissions_confirmed": 0,
   "public_policy_checks_attempted": 12,
@@ -11,7 +11,7 @@
     {
       "name": "free-for-dev",
       "status": "ok",
-      "entries": 99
+      "entries": 100
     },
     {
       "name": "free-services",
